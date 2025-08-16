@@ -4,9 +4,6 @@ import javax.swing.*;
 
 /**
  *  Implements a graphical canvas that displays a graph.
- *
- *  @author  Mulangma "Isabella" Zhu
- *  @version CSC 212, 28 April 2017
  */
 public class GraphCanvas extends JComponent {
     /** The Graph */
@@ -46,7 +43,7 @@ public class GraphCanvas extends JComponent {
     }
 
     /**
-     * Draw an arrow line between two points, revised from the code of @phibao37
+     * Draw an arrow line between two points
      * http://stackoverflow.com/questions/2027613/how-to-draw-a-directed-arrow-line-in-java
      * @param x1 x-position of first point
      * @param y1 y-position of first point
