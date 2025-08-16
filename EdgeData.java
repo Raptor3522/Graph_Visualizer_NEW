@@ -2,9 +2,6 @@
 
 /**
  *  MyNode represents the status of the edge
- *
- *  @author  Mulangma "Isabella" Zhu
- *  @version CSC 212, April 30 2017
  */
 public class EdgeData {
     /** the distance represented by the edge */
