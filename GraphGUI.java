@@ -5,9 +5,6 @@ import javax.swing.*;
 
 /**
  *  Implements a GUI for inputting Graph
- *
- *  @author Mulangma "Isabella" Zhu
- *  @version CSC 212, 28 April 2017
  */
 public class GraphGUI {
     /** The graph to be displayed */
