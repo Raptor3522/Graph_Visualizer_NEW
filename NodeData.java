@@ -2,9 +2,6 @@
 
 /**
  *  NodeData represents the status of the node
- *
- *  @author  Mulangma "Isabella" Zhu
- *  @version CSC 212, April 30 2017
  */
 public class NodeData {
     /** the position of the node */
