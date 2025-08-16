@@ -4,9 +4,6 @@ import java.util.*;
 
 /**
  *  A directed Graph Class
- *
- *  @author Mulangma "Isabella" Zhu
- *  @version CSC 212, 22 April 2017
  */
 public class Graph<V,E> extends Object {
 
